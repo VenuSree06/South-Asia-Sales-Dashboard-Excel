@@ -1,0 +1,51 @@
+Country,Year,GDP_Billion_USD
+India,2021,3180
+India,2022,3390
+India,2023,3730
+India,2024,3900
+India,2025,4100
+Bangladesh,2021,416
+Bangladesh,2022,460
+Bangladesh,2023,470
+Bangladesh,2024,485
+Bangladesh,2025,500
+Pakistan,2021,346
+Pakistan,2022,374
+Pakistan,2023,338
+Pakistan,2024,350
+Pakistan,2025,365
+Sri Lanka,2021,84
+Sri Lanka,2022,89
+Sri Lanka,2023,82
+Sri Lanka,2024,86
+Sri Lanka,2025,90
+Nepal,2021,36
+Nepal,2022,41
+Nepal,2023,42
+Nepal,2024,44
+Nepal,2025,47
+Bhutan,2021,2.6
+Bhutan,2022,2.9
+Bhutan,2023,3.0
+Bhutan,2024,3.2
+Bhutan,2025,3.4
+Maldives,2021,4.5
+Maldives,2022,5.6
+Maldives,2023,6.1
+Maldives,2024,6.4
+Maldives,2025,6.8
+Afghanistan,2021,14.0
+Afghanistan,2022,12.5
+Afghanistan,2023,12.0
+Afghanistan,2024,12.8
+Afghanistan,2025,13.5
+South Asia (Avg),2021,4083
+South Asia (Avg),2022,4373
+South Asia (Avg),2023,4477
+South Asia (Avg),2024,4650
+South Asia (Avg),2025,4900
+South Asia (ex-India),2021,903
+South Asia (ex-India),2022,983
+South Asia (ex-India),2023,947
+South Asia (ex-India),2024,980
+South Asia (ex-India),2025,1020
