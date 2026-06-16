@@ -3,7 +3,6 @@
 ## Dashboard Preview
 
 ![South Asia Sales Dashboard](Screenshot%202%20excel.png)
-
 ## Project Overview
 
 This project presents an interactive sales dashboard developed using Microsoft Excel to analyze business performance across South Asian markets. The dashboard transforms raw sales data into meaningful visual insights that support decision-making and business growth.
